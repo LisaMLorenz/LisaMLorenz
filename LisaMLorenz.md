@@ -7,5 +7,4 @@
 - 😄 Pronouns: she/her
 
 
-
 Connect with me (https://www.linkedin.com/in/lisa-m-lorenz)
