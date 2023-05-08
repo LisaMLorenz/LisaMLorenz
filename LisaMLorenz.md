@@ -1,4 +1,4 @@
-## Hey, I'm Lisa 👋
+## 👋 Hey, I'm Lisa 
 ### A passionate front-end web developer with experience in graphic design and publishing.
 
 - 🌱 I’m currently working on developing a price list app for my local print shop
